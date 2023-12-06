@@ -1,0 +1,46 @@
+.backg{
+    background-color: wheat;
+    text-align: center;
+    padding: 1rem;
+    margin: auto;
+}
+
+.content{
+    background-color: red;
+    color: white;
+    width: 50%;
+    margin: auto;
+}
+
+.l_jobs{
+    display: flex;
+    margin: auto;
+    margin: 0.2rem;
+}
+
+
+.l_jobs .icon{
+    padding: 0.8rem;
+    background-color: rgb(43, 220, 226);
+    border-bottom-left-radius: 1rem;
+    border-top-left-radius: 1rem;
+    margin: auto;
+}
+
+.l_jobs .tags{
+    margin: auto;
+    background-color: rgb(255, 166, 0);
+    padding: 0.8rem;
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    letter-spacing: 0.2rem;
+    text-transform: uppercase;
+    margin: auto;
+    box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 4px 0px inset;
+}
+
+.li_jobs{
+    margin: auto;
+    background-color: blue;
+    display: flex;
+}
