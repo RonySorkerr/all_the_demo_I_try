@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 60%;
+    margin: auto;
+}
+
+
+.head h3{
+    text-align: center;
+    background-color: wheat;
+    padding: 1rem;
+    margin: auto;
+}
+
+.head a{
+    text-decoration: none;
+    color: magenta;
+}
+
